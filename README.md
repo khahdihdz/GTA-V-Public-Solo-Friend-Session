@@ -13,7 +13,7 @@ Một tệp bổ sung cần được cài đặt để tạo phiên chỉ bạn 
 </CDataFileMgr__ContentsOfDataFileXml>                     
 <!--YourUniqueID-->
 ```
-- Thay đổi "YourUniqueID" thành bất kỳ giá trị ngẫu nhiên nào và đảm bảo bạn của bạn cũng có cùng "YourUniqueID" để anh ấy có thể tham gia phiên của bạn, nếu không, đừng chia sẻ tệp startup.meta đã sửa đổi mà bạn đã tạo để bạn chỉ có một phiên solo công khai vĩnh viễn
+- Thay đổi "YourUniqueID" thành bất kỳ giá trị ngẫu nhiên nào và đảm bảo bạn của bạn cũng có cùng "YourUniqueID" để bạn của bạn có thể tham gia phiên của bạn, nếu không, đừng chia sẻ tệp startup.meta đã sửa đổi mà bạn đã tạo để bạn chỉ có một phiên solo công khai vĩnh viễn
 ## Installation
 
 - Chuyển đến thư mục GTA V 
