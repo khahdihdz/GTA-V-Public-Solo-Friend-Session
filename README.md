@@ -1,5 +1,5 @@
 # GTA-V Public Solo/Friend Session
-Một tệp bổ sung cần được cài đặt để tạo phiên chỉ bạn bè công khai trong GTA V. **KHÔNG** này sửa đổi bất kỳ tệp trò chơi nào hoặc cố gắng sửa đổi bất cứ điều gì! Mặc dù tôi **KHÔNG** đảm bảo bạn sẽ không bị cấm sử dụng nó. Theo ý kiến ​​​​của tôi, nó sẽ không cho phép bạn bị cấm vì bản chất của tệp này không mang lại lợi thế nào cho người chơi cũng như không sửa đổi bất kỳ cấu hình/giá trị nào trong trò chơi.
+Một tệp bổ sung cần được cài đặt để tạo phiên chỉ bạn bè công khai trong GTA V. Điều này **KHÔNG** sửa đổi bất kỳ tệp trò chơi nào hoặc cố gắng sửa đổi bất cứ điều gì! Mặc dù tôi **KHÔNG** đảm bảo bạn sẽ không bị cấm sử dụng nó. Theo ý kiến ​​​​của tôi, nó sẽ không cho phép bạn bị cấm vì bản chất của tệp này không mang lại lợi thế nào cho người chơi cũng như không sửa đổi bất kỳ cấu hình/giá trị nào trong trò chơi.
 
 ## How-to
 
