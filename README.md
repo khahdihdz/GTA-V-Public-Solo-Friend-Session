@@ -1,10 +1,10 @@
 # GTA-V Public Solo/Friend Session
-An additional file that needs to be installed in order to make a public friend only session in GTA V. This **DOES NOT** modify any game files or tried to modify anything! Although I **DO NOT** guarantee you'll not get banned from using it. Its only my opinion that it would not let you get banned as due to the nature of this file not giving any player some advantage nor modifying any configurations/values within the game.
+Một tệp bổ sung cần được cài đặt để tạo phiên chỉ bạn bè công khai trong GTA V. **KHÔNG** này sửa đổi bất kỳ tệp trò chơi nào hoặc cố gắng sửa đổi bất cứ điều gì! Mặc dù tôi **KHÔNG** đảm bảo bạn sẽ không bị cấm sử dụng nó. Theo ý kiến ​​​​của tôi, nó sẽ không cho phép bạn bị cấm vì bản chất của tệp này không mang lại lợi thế nào cho người chơi cũng như không sửa đổi bất kỳ cấu hình/giá trị nào trong trò chơi.
 
 ## How-to
 
-- Download the startup.meta in this repository
-- Modify the startup.meta file accordingly
+- Tải xuống startup.meta trong kho lưu trữ này
+- Sửa đổi tệp startup.meta cho phù hợp
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!--YourUniqueID-->
@@ -13,12 +13,11 @@ An additional file that needs to be installed in order to make a public friend o
 </CDataFileMgr__ContentsOfDataFileXml>                     
 <!--YourUniqueID-->
 ```
-- Change "YourUniqueID" to any random values and make sure your friend also have the same "YourUniqueID" so he could join your session else don't share the modified startup.meta file that you made so you would only have a permanent public solo session
-
+- Thay đổi "YourUniqueID" thành bất kỳ giá trị ngẫu nhiên nào và đảm bảo bạn của bạn cũng có cùng "YourUniqueID" để anh ấy có thể tham gia phiên của bạn, nếu không, đừng chia sẻ tệp startup.meta đã sửa đổi mà bạn đã tạo để bạn chỉ có một phiên solo công khai vĩnh viễn
 ## Installation
 
-- Go to GTA V directory 
-- Go to x64/data
-- Paste startup.meta file
+- Chuyển đến thư mục GTA V 
+- Đi đến x64/data
+- Dán tệp startup.meta
 
-Credits: RDO Community (That's where the original idea came from. I just made one for GTA-V cause I can't find anything for it so I made one)
+Tín dụng: Cộng đồng RDO (Đó là nơi nảy sinh ý tưởng ban đầu. Tôi chỉ tạo một cái cho GTA-V vì tôi không thể tìm thấy bất cứ thứ gì cho nó nên tôi đã tạo một cái)
